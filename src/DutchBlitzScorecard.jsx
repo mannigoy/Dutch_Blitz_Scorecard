@@ -174,7 +174,7 @@ const exportAsImage = async () => {
                   <option value={75}>75 Points (Standard)</option>
                   <option value={100}>100 Points (Long Game)</option>
                   <option value={150}>150 Points (Marathon)</option>
-                  <option value={150}>200 Points (Marathon)</option>
+                  <option value={200}>200 Points (Marathon)</option>
                 </select>
               </div>
 
